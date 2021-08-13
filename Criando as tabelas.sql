@@ -108,3 +108,5 @@ CREATE TABLE Dimensional.FatoVendasWil(
 
 );
 
+
+
